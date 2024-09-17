@@ -24,7 +24,7 @@
 
 ## Technologies I use
 
-<img width="50%" align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,mysql,mongodb&perline=7">
+<img width="50%" align="center" src="https://skillicons.dev/icons?i=js,java,ts,html,css,nodejs,mysql,mongodb&perline=7">
 
 ## My Stats
 
@@ -35,5 +35,5 @@
 
 <div align="center" width="100%">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=lustraIl&show_icons=false&theme=midnight-purple&hide_border=true&bg_color=0D1117">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lustraIl&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=donut&bg_color=0D1117">
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=lustrall-js&show_icons=false&theme=midnight-purple&hide_border=true&bg_color=0D1117">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lustrall-js&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=donut&bg_color=0D1117">
