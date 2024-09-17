@@ -26,6 +26,10 @@
 
 <img width="50%" align="center" src="https://skillicons.dev/icons?i=js,java,ts,html,css,nodejs,mysql,mongodb&perline=7">
 
+ </h2>
+  <h2 align="center">
+ <img src="https://skillicons.dev/icons?i=nest,dotnet,express,gitlab,postman,powershell,regex,stackoverflow,vscode,visualstudio,atom&theme=dark"
+
 ## My Stats
 
 
