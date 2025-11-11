@@ -15,7 +15,7 @@
 ## About Me
 
 <samp>
-• Let me introduce myself, I'm Mert. I am 19 y/o. I am a backend developer interested in software. I use what I know to make the applications I use more useful and appropriate. I study at the National Defense University as a fighter jet pilot. <br /><br />
+• Let me introduce myself, I'm Mert. I am 19 y/o. I am a backend developer interested in software. I use what I know to make the applications I use more useful and appropriate. I study at the National Defense Universityᵀᴿ as a fighter jet pilot. <br /><br />
 
 • You Should Come By [Here](https://discord.gg/elves) <br />
 • My [Server](https://discord.gg/elves)
